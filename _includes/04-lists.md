@@ -1,6 +1,4 @@
-My favourite things:
--football 
--logos
--shoes  
--money
--celestial objects
+1. football 
+2. celestial bodies
+3. money 
+   
